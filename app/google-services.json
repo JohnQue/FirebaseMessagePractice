@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "99074130148",
+    "firebase_url": "https://fcmtest-e3bd0.firebaseio.com",
+    "project_id": "fcmtest-e3bd0",
+    "storage_bucket": "fcmtest-e3bd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99074130148:android:de89933b6b1e508a6becf1",
+        "android_client_info": {
+          "package_name": "jp.co.firebasemessagepr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99074130148-apb3ba6ah2agi0ssf55r3eplv7q16bvj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jp.co.firebasemessagepr",
+            "certificate_hash": "acbe0979010f504c53cfa5dc41f11bb4e1fcd977"
+          }
+        },
+        {
+          "client_id": "99074130148-dj5c6194fb0qmlgb97kd631kauvli4t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDivMv6HrwWSpx4j55ROSD86PWqvJ35BHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99074130148-dj5c6194fb0qmlgb97kd631kauvli4t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
